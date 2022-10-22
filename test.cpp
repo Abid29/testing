@@ -8,3 +8,8 @@ int main(void)
     cout << a + b;
     cout << a * b;
 }
+    int a,b;
+    cin>>a>>b;
+    //comment
+    cout<<a+b;
+}
